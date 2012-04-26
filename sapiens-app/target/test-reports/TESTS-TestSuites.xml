@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="PC-de-Mohamed" id="0" name="GestionCompetencesTests" package="sapiens" tests="4" time="1.174" timestamp="2012-04-05T07:48:50">
+      <properties />
+
+      <testcase classname="sapiens.GestionCompetencesTests" name="testSuiviCompetence" time="0.947" />
+
+      <testcase classname="sapiens.GestionCompetencesTests" name="testNewDomaineCompences" time="0.016" />
+
+      <testcase classname="sapiens.GestionCompetencesTests" name="testInscriptionDesincription" time="0.118" />
+
+      <testcase classname="sapiens.GestionCompetencesTests" name="testNewCompetenceAndDeleteDomaine" time="0.063" />
+
+      <system-out><![CDATA[--Output from testSuiviCompetence--
+--Output from testNewDomaineCompences--
+--Output from testInscriptionDesincription--
+--Output from testNewCompetenceAndDeleteDomaine--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSuiviCompetence--
+--Output from testNewDomaineCompences--
+--Output from testInscriptionDesincription--
+--Output from testNewCompetenceAndDeleteDomaine--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
